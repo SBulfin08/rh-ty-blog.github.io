@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SeBlog Entry"
+title:  "Seb Bulfin Blog Entry"
 date:   2025-04-08 13:35:00 +0100
 categories: jekyll update
 ---
@@ -19,11 +19,9 @@ categories: jekyll update
 ---
 
 
-![Red Hat Office](https://ctsgroup.ie/images/made/images/uploads/clients/IMG_0606_960_550_s_c1.JPG "Red Hat Waterford")
-
 **Introduction**.
 
-On the firs tday 
+Day 1:
 **_What is Red Hat?_**
 * Red Hat is an open-source company mainly focused on software engineering and developing
 * Acquired by IBM July 9th of 2019
@@ -31,7 +29,7 @@ On the firs tday
 
 
 
-We were met on Monday morning by Mark,a Senior Distinguished Software Engineer who explained to us
+We were met on Monday morning by Mark, a Senior Distinguished Software Engineer who explained to us
 What Red Hat is about, what work they have done, and the history of Red Hat.
 
 Mark gave us a tour around the office, showing us the different teams, conference rooms, and facilities.
@@ -47,7 +45,7 @@ We went over Agile is a way of working on projects where teams break the work in
 ---
 
 
-![Red Hat](https://media.licdn.com/dms/image/sync/v2/D4E27AQG0k7J11PhVrA/articleshare-shrink_800/articleshare-shrink_800/0/1715854575117?e=2147483647&v=beta&t=p90eVR4DoE3f_dLfR9lHtLAVEG56CL9iItgiYbWf0yU "Red Hat Waterford")
+
 
 **This is the text area where you can enter your blog details for Tuesday**.
 
